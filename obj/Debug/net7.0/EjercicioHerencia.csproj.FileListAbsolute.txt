@@ -1,0 +1,14 @@
+/home/gc/Desktop/ccharp/EjercicioHerencia/bin/Debug/net7.0/EjercicioHerencia
+/home/gc/Desktop/ccharp/EjercicioHerencia/bin/Debug/net7.0/EjercicioHerencia.deps.json
+/home/gc/Desktop/ccharp/EjercicioHerencia/bin/Debug/net7.0/EjercicioHerencia.runtimeconfig.json
+/home/gc/Desktop/ccharp/EjercicioHerencia/bin/Debug/net7.0/EjercicioHerencia.dll
+/home/gc/Desktop/ccharp/EjercicioHerencia/bin/Debug/net7.0/EjercicioHerencia.pdb
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/EjercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/EjercicioHerencia.AssemblyInfoInputs.cache
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/EjercicioHerencia.AssemblyInfo.cs
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/EjercicioHerencia.csproj.CoreCompileInputs.cache
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/EjercicioHerencia.dll
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/refint/EjercicioHerencia.dll
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/EjercicioHerencia.pdb
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/EjercicioHerencia.genruntimeconfig.cache
+/home/gc/Desktop/ccharp/EjercicioHerencia/obj/Debug/net7.0/ref/EjercicioHerencia.dll
