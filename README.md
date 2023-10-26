@@ -3,16 +3,16 @@
 * Seleccionar aplicación de consola para C# (Console App)
 * Colocar el nombre del proyecto EjercicioHerencia
 * Crear una clase padre llamado Animal la cual tendrá los siguientes atributos:
- * nombre
- * color
- * tamano
- * familia
+  * nombre
+  * color
+  * tamano
+  * familia
 * Crear otra clase llamado Vertebrado, está clase heredará de la clase Animal la cual tendrá los siguientes atributos:
- * tipo (Pez, Aves, Anfibios, Reptiles, Mamíferos)
- * tienePatas
- * esDomestico
- * esHerbivoro
- * esCarnivoro
+  * tipo (Pez, Aves, Anfibios, Reptiles, Mamíferos)
+  * tienePatas
+  * esDomestico
+  * esHerbivoro
+  * esCarnivoro
 * Crear un método llamado imprimir() en el cuál mostrará los datos de un animal vertebrado
 * Crear otra clase llamado Invertebrado, está clase heredará de la clase Animal la cual tendrá los siguientes atributos:
   * tipo (Insecto, aracnido, crustaceo, miriápodos, moluscos, gusanos)
